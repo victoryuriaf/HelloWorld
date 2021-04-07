@@ -1,6 +1,6 @@
-## Hey! I'm Victor Yuri! 
+## Hey! Eu sou Victor Yuri! 
     💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end.
-    🏡 Brazil, Fortaleza - CE.
+    🏡 Brasil, Fortaleza - CE.
   
   ## 💻 Mídias Sociais
   
