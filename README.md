@@ -1,5 +1,5 @@
 ## Hey! Eu sou Victor Yuri! 
-    💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-end.
+    💻 Estudante de Análise e Desenvolvimento de Sistemas | Junior Software Developer at Wipro Limited.
     🏡 Brasil, Fortaleza - CE.
   
   ## 💻 Mídias Sociais
