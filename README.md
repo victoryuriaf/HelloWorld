@@ -1,5 +1,5 @@
 ## Hey! Eu sou Victor Yuri! 
-    💻 Estudante de Análise e Desenvolvimento de Sistemas | Junior Software Developer at Wipro Limited.
+    💻 Estudante de Análise e Desenvolvimento de Sistemas | ServiceNow Technical Consultant / Junior Software Developer at Aoop Cloud Solutions.
     🏡 Brasil, Fortaleza - CE.
   
   ## 💻 Mídias Sociais
