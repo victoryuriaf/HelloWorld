@@ -12,7 +12,7 @@
 
 ## 🎓 Sobre Mim 
 ###
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou cursando o 3º semestre.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou cursando o 4º semestre.
 Como desenvolvedor, possuo habilidade de aprender rapidamente e isso me permite trabalhar com uma alta taxa de produtividade. 
 Trabalho bem em equipe, possuo competências para avaliar meu próprio desempenho e tenho facilidade em aceitar responsabilidades. 
 
